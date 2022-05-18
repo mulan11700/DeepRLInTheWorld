@@ -46,3 +46,7 @@ For each item, please include two parts, a link to an article or video to make t
     - Construction company headquarters in Copenhagen, Denmark. Control of ventilation rate and air temperature. Running since August 2020.
     - French cosmectics company, office+lab building. Control of air renewal and temperature. Running since October 2021.
     - New university campus in Luxembourg. Control of ventilation in amphitheaters. Running since December 2021.
+
+* Creative use of RL as a game mechanic to educate non-technical audiences about considerations for training AI in a fun way. Animo is currently in production with beta release scheduled for December 2022.
+  - [link to prototype build](https://transformsai.itch.io/animo-lab)
+  - [link to Discord community](https://discord.com/invite/5jyehz5ndc)
